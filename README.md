@@ -16,9 +16,11 @@ The project is simple yet challenging as it is has very limited features & sampl
 
 <b> Objective : </b>
 
-Understand the Dataset & cleanup (if required).
-Build Regression models to predict the student marks wrt multiple features.
-Also evaluate the models & compare their respective scores like R2, RMSE, etc.
+* Understand the Dataset & cleanup (if required).
+
+* Build Regression models to predict the student marks wrt multiple features.
+
+* Also evaluate the models & compare their respective scores like R2, RMSE, etc.
 
 ***
 
